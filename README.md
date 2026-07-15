@@ -33,10 +33,10 @@ Tujuan project ini adalah membangun model machine learning untuk identifikasi ca
 - Monetisasi - Pemanfaatan model ini membuat Bank bisa mengalami keuntungan sebesar Rp. 530.950.000. Ini adalah lompatan keuntungan yang besar karena sebelumnya (tanpa penggunaan model) Bank mengalami kerugian sebesar Rp 84.100.000.
  
 **Key Insights**
-- Berdasarkan analisa riwayat data marketing, nasabah prioritas yang bisa dijadikan target utama oleh Bank adalah (1) kelompok “pensiunan, senior, silent generation atau baby boomers” dan (2) kelompok “single, high education, young atau gen Z.
-- Untuk nasabah prioritas, tingkat keberhasilan pembukaan deposito meningkat ketika marketing dilakukan kepada (1) existing customer, atau (2) nasabah yang sebelumnya telah membuka deposito, atau (3) nasabah yang tidak punya riwayat gagal bayar utang ke Bank.
-- Nasabah prioritas lebih responsif terhadap kampanye deposito jika dihubungi melalui HP pada hari selasa, rabu dan kamis (khususnya pada bulan April s/d Agustus).
-- Decision Tree Hyperparameter Tuning dengan class weight untuk mengatasi data imbalance menghasilkan sebuah model prediksi yang paling efektif.
+1. Berdasarkan analisa riwayat data marketing, nasabah prioritas yang bisa dijadikan target utama oleh Bank adalah (1) kelompok “pensiunan, senior, silent generation atau baby boomers” dan (2) kelompok “single, high education, young atau gen Z.
+2. Untuk nasabah prioritas, tingkat keberhasilan pembukaan deposito meningkat ketika marketing dilakukan kepada (1) existing customer, atau (2) nasabah yang sebelumnya telah membuka deposito, atau (3) nasabah yang tidak punya riwayat gagal bayar utang ke Bank.
+3. Nasabah prioritas lebih responsif terhadap kampanye deposito jika dihubungi melalui HP pada hari selasa, rabu dan kamis (khususnya pada bulan April s/d Agustus).
+4. Decision Tree Hyperparameter Tuning dengan class weight untuk mengatasi data imbalance menghasilkan sebuah model prediksi yang paling efektif.
 
 **Rekomendasi**
 1.	Add New Features – Tambah fitur baru seperti income nasabah, spending nasabah, nilai deposito yang dibuka nasabah, dan jangka waktu deposito yang dipilih nasabah.
